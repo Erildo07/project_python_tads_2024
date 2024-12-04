@@ -1,5 +1,5 @@
 #Alunos: Luidy Viera, Ellen Roberta , Amanda Moreira , Gabriel Eiji ,Rodrigo Rodrigues, Erildo Nunes, Tony Everton.
-#TADS - Projeto Eldoria/P2
+#ADS - Projeto Eldoria/P2
 #1º Período e 2º Período
 #Prof : Richard Vieira 
 
